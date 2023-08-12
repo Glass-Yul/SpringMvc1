@@ -12,4 +12,9 @@ public class ServletApplication {
 		SpringApplication.run(ServletApplication.class, args);
 	}
 
+//	@Bean
+//	SpringMemberFormControllerV1 springMemberFormControllerV1(){
+//		return new SpringMemberFormControllerV1();
+//	}
+
 }
